@@ -25,7 +25,7 @@ In 2025, I joined the **Shinhan Investment Corp. Pro Digital Academy** to broade
 
 ## 💼 Internship & Research Experience
 - **Samsung Medison** – AI & Informatics
-- **Artificial Intelligence & Machine Learning Lab, Hallym University**  
+- **Artificial Intelligence & Machine Learning Lab**  
   Research in segmentation and multimodal AI (2022, 2024)
 
 ---
@@ -33,8 +33,6 @@ In 2025, I joined the **Shinhan Investment Corp. Pro Digital Academy** to broade
 ## 🚀 Education & Programs
 - 🏛️ **Shinhan Investment Corp. Pro Digital Academy** (Apr. 2025 – Oct. 2025)  
   Advanced program in fintech, IT systems, and finance-tech convergence  
-- 🎓 **Hallym University** (Mar. 2020 – Present)  
-  Major in AI Medical Convergence & Big Data | GPA: 3.87 / 4.5
 
 ---
 
@@ -49,7 +47,7 @@ In 2025, I joined the **Shinhan Investment Corp. Pro Digital Academy** to broade
 ---
 
 ## 🧑‍🏫 Teaching
-- TA for *Artificial Intelligence Convergence Seminar* (2022 Summer, Hallym University)
+- TA for *Artificial Intelligence Convergence Seminar* (2022 Summer)
 
 ---
 
