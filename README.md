@@ -37,6 +37,22 @@ In 2025, I joined the **Shinhan Investment Corp. Pro Digital Academy** to broade
 ---
 
 ## 🛠️ Skills & Tools
+- ## 🛠️ Skills & Tools
+
+## 🛠️ Skills & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white" alt="Linux" />
+</p>
+
+
+
 - **Languages**: Python, C#  
 - **Frameworks**: PyTorch, Keras , Pandas
 - **Tools**: Git, VS Code, Linux  
