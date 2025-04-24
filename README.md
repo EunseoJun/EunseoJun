@@ -37,9 +37,6 @@ In 2025, I joined the **Shinhan Investment Corp. Pro Digital Academy** to broade
 ---
 
 ## 🛠️ Skills & Tools
-- ## 🛠️ Skills & Tools
-
-## 🛠️ Skills & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
