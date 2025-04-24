@@ -71,6 +71,3 @@ In 2025, I joined the **Shinhan Investment Corp. Pro Digital Academy** to broade
 - **Capstone Design** – Gaze-tracking service using CV (2022)  
 - **Eye-Tracking for ALS Patients** – HCI system development (2022)
 
----
-
-Feel free to explore my repositories and reach out if you'd like to collaborate or know more!
