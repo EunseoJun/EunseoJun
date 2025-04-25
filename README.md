@@ -1,14 +1,17 @@
 # 👋 Hi there, I'm Eunseo Jun!
-  
+
+---
+
 ## 🧠 About Me
 
 I'm a passionate developer and researcher with growing interest in both **Artificial Intelligence** and **Full-Stack Development**.  
-Currently, I’m focused on **Computer Vision** and **Multi-Modality**, while expanding my skills in **web development** and **cloud engineering**.  
-In 2025, I joined the **Shinhan Investment Corp. Pro Digital Academy** to broaden my perspective in fintech and real-world IT applications.
+Currently focusing on **Computer Vision** and **Multi-Modality**, while expanding my skills in **Web Development** and **Cloud Engineering**.  
+In 2025, I joined the **Shinhan Investment Corp. Pro Digital Academy** to explore the convergence of fintech and real-world IT applications.
 
 ---
 
 ## 🧪 Research & Development Interests
+
 - Computer Vision (CV)  
 - Multi-Modality  
 - Full-Stack Development (React, Node.js, Spring)  
@@ -17,26 +20,58 @@ In 2025, I joined the **Shinhan Investment Corp. Pro Digital Academy** to broade
 ---
 
 ## 📝 Publications & Conferences
-- 🧠 [**"Cerebral Hemorrhage Segmentation Analysis"**](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862478) – *KCC 2024, Jeju Island (Poster)*  
-- 🔍 **"Automated ICH Diagnosis Model using Transformer"** – *KSCS 2024, Seoul (Poster)*  
-- 👁️ **"Eye Movement–based Communication for ALS Patients"** – *KCC 2022, Jeju Island (Poster)*
+
+| Title                                                                                                         | Conference            | Year | Type   |
+|---------------------------------------------------------------------------------------------------------------|------------------------|------|--------|
+| [**Cerebral Hemorrhage Segmentation Analysis**](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862478) | KCC, Jeju Island       | 2024 | Poster |
+| **Automated ICH Diagnosis Model using Transformer**                                                          | KSCS, Seoul            | 2024 | Poster |
+| **Eye Movement–based Communication for ALS Patients**                                                        | KCC, Jeju Island       | 2022 | Poster |
 
 ---
 
 ## 💼 Internship & Research Experience
-- **Samsung Medison** – AI & Informatics
-- **Artificial Intelligence & Machine Learning Lab**  
-  Research in segmentation and multimodal AI (2022, 2024)
+
+| Organization                    | Role / Topic                              | Year(s)       |
+|--------------------------------|-------------------------------------------|---------------|
+| Samsung Medison                | AI & Informatics                          | 2024          |
+| AI & Machine Learning Lab      | Brain CT Segmentation, Multimodal Models  | 2022, 2024    |
 
 ---
 
 ## 🚀 Education & Programs
-- 🏛️ **Shinhan Investment Corp. Pro Digital Academy** (Apr. 2025 – Oct. 2025)  
-  Advanced program in fintech, IT systems, and finance-tech convergence  
+
+| Program                                      | Details                                             | Period                  |
+|---------------------------------------------|-----------------------------------------------------|--------------------------|
+| **Shinhan Investment Corp. Pro Digital Academy** | Fintech, IT Systems, Cloud & DevOps                | Apr 2025 – Oct 2025     |
+
+---
+
+## 💡 Projects
+
+| Project Title                              | Description                                                     | Year       |
+|--------------------------------------------|-----------------------------------------------------------------|------------|
+| STT-based Physical UI Control              | Real-time voice interface for device control (Hackathon)        | 2024       |
+| Fake Voice Recognition System              | Deep learning system to detect phishing voice                   | 2024       |
+| Brain Hemorrhage CT Analysis               | Medical image classification & segmentation                     | 2024       |
+| Capstone Design – Gaze Tracking Service    | CV-based UX system for user gaze detection                      | 2022       |
+| Eye-Tracking for ALS Patients              | HCI system for communication aid                                | 2022       |
 
 ---
 
 ## 🛠️ Skills & Tools
+
+### 💻 Languages
+- Python, C#
+
+### 🔧 Frameworks & Libraries
+- PyTorch, Keras, Pandas
+
+### 🔨 Tools & Platforms
+- Git, VS Code, Linux, Docker, AWS, GCP
+
+### 🧾 Certifications
+- ADsP (Advanced Data Analytics Semi-Professional)  
+- OPIC – IH
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
@@ -48,26 +83,12 @@ In 2025, I joined the **Shinhan Investment Corp. Pro Digital Academy** to broade
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white" alt="Linux" />
 </p>
 
-
-
-- **Languages**: Python, C#  
-- **Frameworks**: PyTorch, Keras , Pandas
-- **Tools**: Git, VS Code, Linux  
-- **Certifications**:  
-  - ADsP (Advanced Data Analytics Semi-Professional)  
-  - OPIC – IH
-
 ---
 
-## 🧑‍🏫 Teaching
-- TA for *Artificial Intelligence Convergence Seminar* (2022 Summer)
+## 🧑‍🏫 Teaching Experience
+
+| Role                          | Course                                    | Period        |
+|-------------------------------|-------------------------------------------|---------------|
+| Teaching Assistant (TA)       | Artificial Intelligence Convergence Seminar | 2022 Summer   |
 
 ---
-
-## 💡 Projects
-- **STT-based Physical UI Control** – Real-time voice interface for physical device control (Company Hackathon, 2024)  
-- **Fake Voice Recognition System** – Preventing voice phishing (2024)  
-- **Brain Hemorrhage CT Analysis** – Classification & segmentation (2024)  
-- **Capstone Design** – Gaze-tracking service using CV (2022)  
-- **Eye-Tracking for ALS Patients** – HCI system development (2022)
-
