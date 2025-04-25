@@ -2,6 +2,13 @@
   
 ## 🧠 About Me
 
+## ✨ 가치관
+
+> **문제의 본질을 파악하고, 타당한 해답을 제시하는 연구 기반 개발자**  
+> 다양한 프로젝트와 논문 집필을 통해 ‘필요한 문제’를 정의하고,  
+> ‘타당한 해결책’을 제시하는 훈련을 지속해왔습니다.
+
+
 I'm a passionate developer and researcher with growing interest in both **Artificial Intelligence** and **Full-Stack Development**.  
 Currently, I’m focused on **Computer Vision** and **Multi-Modality**, while expanding my skills in **web development** and **cloud engineering**.  
 In 2025, I joined the **Shinhan Investment Corp. Pro Digital Academy** to broaden my perspective in fintech and real-world IT applications.
