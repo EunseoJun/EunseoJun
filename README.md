@@ -17,7 +17,7 @@ In 2025, I joined the **Shinhan Investment Corp. Pro Digital Academy** to broade
 ---
 
 ## 📝 Publications & Conferences
-- 🧠 **"Cerebral Hemorrhage Segmentation Analysis"** – *KCC 2024, Jeju Island (Poster)*  
+- 🧠 [**"Cerebral Hemorrhage Segmentation Analysis"**](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862478) – *KCC 2024, Jeju Island (Poster)*  
 - 🔍 **"Automated ICH Diagnosis Model using Transformer"** – *KSCS 2024, Seoul (Poster)*  
 - 👁️ **"Eye Movement–based Communication for ALS Patients"** – *KCC 2022, Jeju Island (Poster)*
 
